@@ -8,7 +8,7 @@
 | 嫌いなもの | 世知辛い世の中 |
 
 ■ Relations
-- twitter: @squid_pcean
+- twitter: @squid_ocean
 - note: @squid_ocean
 
 ## Contacts 👀
