@@ -8,11 +8,9 @@
 | 嫌いなもの | 世知辛い世の中 |
 
 ■ Relations
-- twitter: @squid_ocean
 - note: @squid_ocean
 
 ## Contacts 👀
-- twitter(@squid_pcean) のDM
 - 「kaiimasato.so🦑gmail.com」「kaikai120626🐙gmail.com」(🦑と🐙は@に置き換える)
 
 ## Current Productions 💻
