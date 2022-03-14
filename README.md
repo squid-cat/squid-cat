@@ -7,9 +7,6 @@
 | 好きなもの | ぬこ、寿司 |
 | 嫌いなもの | 世知辛い世の中 |
 
-■ Relations
-- note: @squid_ocean
-
 ## Contacts 👀
 - 「kaiimasato.so🦑gmail.com」「kaikai120626🐙gmail.com」(🦑と🐙は@に置き換える)
 
