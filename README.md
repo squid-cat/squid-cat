@@ -12,7 +12,7 @@
 - note: @squid_ocean
 
 ## Contacts 👀
-- [twitter(@squid_pcean)](https://twitter.com/squid_ocean) のDM
+- twitter(@squid_pcean) のDM
 - 「kaiimasato.so🦑gmail.com」「kaikai120626🐙gmail.com」(🦑と🐙は@に置き換える)
 
 ## Current Productions 💻
