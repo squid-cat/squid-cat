@@ -4,14 +4,12 @@
 |  key  |  value  |
 | ---- | ---- |
 | 名前 |  今里 海(Imasato Kai) |
-| 年齢 | 21歳 |
-| 所属 | 日本大学工学部 |
 | 好きなもの | ぬこ、寿司 |
 | 嫌いなもの | 世知辛い世の中 |
 
 ■ Relations
-- twitter: [@squid_pcean](https://twitter.com/squid_ocean) 
-- note: [@squid_ocean](https://note.com/squid_ocean) 
+- twitter: @squid_pcean
+- note: @squid_ocean
 
 ## Contacts 👀
 - [twitter(@squid_pcean)](https://twitter.com/squid_ocean) のDM
