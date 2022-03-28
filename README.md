@@ -17,6 +17,7 @@
 | C#/Java | 約1年 | 趣味 |
 | html/css/js | 約1年 | 趣味 |
 | React/Vue/ts | 約3か月 | Reactは実務経験有 |
+| git/GitHub | 約1年 | 趣味、大学でのプロダクト開発 |
 
 
 ## Contacts 👀
@@ -58,6 +59,15 @@ https://user-images.githubusercontent.com/68623073/160399491-e9f0ff06-c213-45ba-
 - note： [UnityでVR開発をしてみた](https://note.com/squid_ocean/n/n740f85bea17d)
 - Googleスライド：[初めてのVR開発](https://docs.google.com/presentation/d/1iy1DHQlk4Hh9Fb6KzNaMnNB-pUuaPSaT/edit?usp=sharing&ouid=108479982270572372767&rtpof=true&sd=true)
 - 動画一覧(Google Drive)： [動画一覧](https://drive.google.com/drive/folders/1FpOI4v4bU3a63isDlKiReJ_4dq1rroXJ?usp=sharing)
+
+<br>
+
+### 会津野菜の販売促進アプリ「会津野菜ガチャ」
+「会津若松市のにぎわいとなりわいを生み出すシステム」を課題にした、日本大学と会津大学の合同講義「Enpit」で作成したものになります。
+
+私のチームでは、会津若松の特色である農産業を生かし、更なる地産地消の促進を行える場や機会を提供できるよう、約4か月かけてプロダクト開発を行いました。
+
+![image](https://user-images.githubusercontent.com/68623073/160409442-2a403bed-d4dc-4962-84f8-c42222bc6205.png)
 
 <br>
 
