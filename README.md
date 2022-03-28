@@ -36,6 +36,7 @@ LoLは知って損がない知識や技術などが沢山あります。情報�
 ### (LT会) 魔法少女になってみた！
 
 
+<br>
 
 ### (ハッカソン) トリモ/Trimo
 「旅の選択肢を増やしたい」「旅先に迷っている人」向けに「トリモ/Trimo」というプロダクトを作成しました。
@@ -44,6 +45,7 @@ LoLは知って損がない知識や技術などが沢山あります。情報�
 - netlify: https://trimo.netlify.app/
 - GitHub : https://github.com/H0R15H0/torimo
 
+https://user-images.githubusercontent.com/51479912/117399758-38285d00-af3c-11eb-97f5-3ad7715de250.mp4
 
 
 ## Github Info 
