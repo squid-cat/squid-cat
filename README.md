@@ -43,6 +43,7 @@ LoLは知って損がない知識や技術などが沢山あります。情報�
 「自分の旅を記録し、それを他の人が参考」にでき、「旅行雑誌・旅行アプリ」とは違った「旅の記録を共有する機能」というのを発案、開発をしました。
 
 - netlify: https://trimo.netlify.app/
+※モバイル表示を元に作成しています
 - GitHub : https://github.com/H0R15H0/torimo
 
 https://user-images.githubusercontent.com/51479912/117399758-38285d00-af3c-11eb-97f5-3ad7715de250.mp4
