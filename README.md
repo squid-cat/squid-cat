@@ -24,8 +24,22 @@ Coming Soon...
 3. (discordと連携した機能)
 4. (スマホアプリ - android限定)
 
+## Past Productions 📖
 
-## Github Info 📖
+### (LT会) 魔法少女になってみた！
+
+
+
+### (ハッカソン) トリモ/Trimo
+「旅の選択肢を増やしたい」「旅先に迷っている人」向けに「トリモ/Trimo」というプロダクトを作成しました。
+「自分の旅を記録し、それを他の人が参考」にでき、「旅行雑誌・旅行アプリ」とは違った「旅の記録を共有する機能」というのを発案、開発をしました。
+
+- netlify: https://trimo.netlify.app/
+- GitHub : https://github.com/H0R15H0/torimo
+
+
+
+## Github Info 
 
 ### visitors
 
