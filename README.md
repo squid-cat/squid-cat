@@ -53,7 +53,7 @@ VR機器を買ったときになんとなく「魔法少女になりたいなぁ
 
 https://user-images.githubusercontent.com/68623073/160399491-e9f0ff06-c213-45ba-85f0-c5df4f4114b2.mp4
 
-以下のURLにて開発の過程を明記していますので、是非閲覧ください！
+以下のURLにて開発の過程を明記していますので、是非ご覧ください！
 
 - LT会発表：[Piyogrammer Conference 2021(自分が発表を開始した地点)](https://youtu.be/z_J--PMg2_c?t=6917)
 - note： [UnityでVR開発をしてみた](https://note.com/squid_ocean/n/n740f85bea17d)
