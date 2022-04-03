@@ -17,7 +17,7 @@
 | C#/Java | 約1年 | 趣味 |
 | html/css/js | 約1年 | 趣味 |
 | React/Vue/ts | 約3か月 | Reactは実務経験有 |
-| git/GitHub | 約1年 | 趣味、大学でのプロダクト開発 |
+| git/GitHub | 約1年 | 趣味、大学でのプロダクト開発、実務 |
 
 
 ## Contacts 👀
