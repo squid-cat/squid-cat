@@ -66,7 +66,7 @@ https://user-images.githubusercontent.com/68623073/160399491-e9f0ff06-c213-45ba-
 「会津若松市のにぎわいとなりわいを生み出すシステム」を課題にした、日本大学と会津大学の合同講義「Enpit」で作成したものになります。
 
 私のチームでは、会津若松の特色である農産業を生かし、更なる地産地消の促進を行える場や機会を提供できるよう、約4か月かけてプロダクト開発を行いました。
-
+- enpitについて: https://bizsysd.enpit.jp/
 ![image](https://user-images.githubusercontent.com/68623073/160409442-2a403bed-d4dc-4962-84f8-c42222bc6205.png)
 
 <br>
