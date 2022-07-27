@@ -30,7 +30,7 @@ k_imasato🐙yumemi.co.jp
 
 (🦑と🐙は@に置き換える)
 
-<!--## Current Productions 💻^^>
+<!--## Current Productions 💻-->
 
 
 ## Github Info 
