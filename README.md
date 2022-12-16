@@ -9,16 +9,10 @@
 |最近の流行り|競プロが面白い|
 
 ■ Stacks
-|  Stacks  |  values  | info |
-| ---- | ---- | ---- |
-| Python3 | 約2年 | 趣味、研究 |
-| .NET | 約3年 | 実務経験有 |
-| Kotlin | 約半年 | 趣味、多少の実務経験有 |
-| C#/Java | 約1年 | 趣味 |
-| html/css/js | 約1年 | 趣味 |
-| React/Vue/ts | 約3か月 | Reactは実務経験有 |
-| git/GitHub | 約1年 | 趣味、大学でのプロダクト開発、実務 |
-
+- React / Next
+- Python
+- C#
+- TypeScript
 
 ## Contacts 👀
 
