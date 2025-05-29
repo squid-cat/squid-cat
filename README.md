@@ -8,22 +8,6 @@
 | 嫌いなもの | 世知辛い世の中 |
 |最近の流行り|競プロが面白い|
 
-■ Stacks
-- React / Next
-- Python
-- C#
-- TypeScript
-
-## Contacts 👀
-
-### 個人宛はこちら
-kaiimasato.so🦑gmail.com
-
-### 会社経由はこちら
-k_imasato🐙yumemi.co.jp
-
-(🦑と🐙は@に置き換える)
-
 <!--## Current Productions 💻-->
 
 
